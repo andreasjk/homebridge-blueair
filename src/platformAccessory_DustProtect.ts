@@ -140,6 +140,9 @@ export class BlueAirDustProtectAccessory {
       case 'nb_h_1.0': // Blue Pure 211i Max
         this.modelName = 'Blue Pure 211i Max';
         break;
+      case 'nb_l_1.0': // Blue Pure 411i Max
+        this.modelName = 'Blue Pure 411i Max';
+        break;
       case 'nb_m_1.0': // Blue Pure 311i+ Max
         this.modelName = 'Blue Pure 311i+ Max';
         break;
